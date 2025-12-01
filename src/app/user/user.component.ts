@@ -21,7 +21,7 @@ import { MatListModule } from '@angular/material/list';
     MatListModule
   ],
   template: `
-    <h2>User Notification Test</h2>
+    <h2>User Notification Service Similator</h2>
 
     <form (ngSubmit)="loadClientLimit()" class="user-form">
       <mat-form-field appearance="fill">
